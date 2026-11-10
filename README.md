@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Lucca Rezende</h1>
+  <h1>Lucca Oliveira</h1>
   <h3>Engenharia da Computação · Analista de Sistemas Jr · Dados & Automação</h3>
   <p><em>"Automatizar é economizar tempo futuro com inteligência presente."</em></p>
 
